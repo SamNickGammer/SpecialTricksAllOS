@@ -16,8 +16,8 @@ if NOT %pass%== YOUR-PASSWORD goto FAIL
 ```
 It will be on Line 21, Maybe....
 ##### Step 4: Replace `YOUR-PASSWORD` with any PASSWORD you want.
-> [!WARNING]
->  **Don't Delete any Space While changing Password**. Be very careful here!
+
+> :warning: **Don't Delete any Space While changing Password**. Be very careful here!
 
 ##### Step 5: Save your file as `FileName.bat` in the same Folder.
 ##### Step 6: Double Click on the `FileName.bat`.
