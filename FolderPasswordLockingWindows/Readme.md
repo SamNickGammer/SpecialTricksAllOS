@@ -37,6 +37,5 @@ It will be on Line 21, Maybe....
 	It will close the "Command Prompt".
 	And it will show the "Private" Folder that contain all your data.
 
-> [!CAUTION]
-> Never Delete the Main Folder Which you have created at first
+> ☠ Never Delete the Main Folder Which you have created at first
 > `It may cause deleating all our data.`
