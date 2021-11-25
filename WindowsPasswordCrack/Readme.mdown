@@ -6,11 +6,11 @@
 > <b>Step 1: </b> Click the **Power Button** icon in Lower Right Corner.
 > <b>Step 2: </b>Hold down ``Shift `` and click **Restart**.
 ##### Step 2:  Click ``Troubleshoot`` on the screen which appears.
-<img src="./ts_screen1.png" width="500px">
+<img src="./ts_screen1.png" width="500px"></img>
 ##### Step 3:  Click  ``Advance Option``.
->![enter image description here](https://cdn.mos.cms.futurecdn.net/vFzmLGPdnVdwuJskLioouR.png =500x)
+<img src="./ts_screen2.png" width="500px"></img>
 ##### Step 4: Click on ``Command Prompt``.
->![enter image description here](https://cdn.mos.cms.futurecdn.net/9kLLhCz5amdY2Pjbixnatj.png =500x)
+<img src="./ts_screen3.png" width="500px"></img>
 ##### You are Good to Go with Cracking Password
 #### <u> Using Flash Boot Drive / Recovery Drive...</u>
 ##### Step 1: ``Restart `` your System. 
