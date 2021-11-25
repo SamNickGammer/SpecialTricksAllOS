@@ -50,17 +50,17 @@ INTEL|||F10
 #### <u> Now you have already Started `CMD`, Now Start Steps.</u>
 ##### Step 1 : In `Command Prompt` start Notepad.
 > Type ``` Notepad ``` in CMD, and Press `Enter`.
-> <img src="./Cmd_Not1.png" width="500px"></img>
+<img src="./Cmd_Not1.png" width="500px"></img>
 ##### Step 2 : Go to file and Click on `Open`.
 ##### Step 3 : Change File Type to `All Files`.
-> <img src="./Note1.png" width="500px"></img>
+<img src="./Note1.png" width="500px"></img>
 ##### Step 4 : Go to `Drive C` .
 >Remember Drive C will contains `Windows` and `Users` Folder.
 >Maybe Drive name is Different.
 ##### Step 5 : Go to `Windows > System32` folder.
-> <img src="./System32.png" width="500px"></img>
+<img src="./System32.png" width="500px"></img>
 ##### Step 6 : Find `Utilman` and Replace with `Utilman1`.
-> <img src="./utli1.jpg" width="500px"></img>
+<img src="./utli1.jpg" width="500px"></img>
 ##### Step 7 : Find `CMD` and Replace with `CMD1`.  
 ##### Step 8 : Copy `CMD1` and Paste it.
 ##### Step 9 : Rename any of the `CMD1` to `Utilman`.
@@ -69,8 +69,8 @@ INTEL|||F10
 #### <u> Opening Control Panel and Reset Passwords...</u>
 ##### Step 1 : Click on `Utilman` button present on the bottom left corner.
 > `CMD` Will open on Lock Screen.
-> <img src="./utl.jpg" width="500px"></img>
+<img src="./utl.jpg" width="500px"></img>
 ##### Step 2 : Type `control userpasswords2` and Press `Enter`.
-> <img src="./cont1.png" width="500px"></img>
+<img src="./cont1.png" width="500px"></img>
 ##### Step 3 : Click on `Reset Password`.
 ##### Step 4 : Type New Password.
