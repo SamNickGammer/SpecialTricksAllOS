@@ -71,6 +71,6 @@ INTEL|||F10
 > `CMD` Will open on Lock Screen.
 > <img src="./utl.jpg" width="500px"></img>
 ##### Step 2 : Type `control userpasswords2` and Press `Enter`.
-> > <img src="./cont1.png" width="500px"></img>
+> <img src="./cont1.png" width="500px"></img>
 ##### Step 3 : Click on `Reset Password`.
 ##### Step 4 : Type New Password.
