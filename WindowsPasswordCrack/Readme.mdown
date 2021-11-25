@@ -50,7 +50,7 @@ INTEL|||F10
 #### <u> Now you have already Started `CMD`, Now Start Steps.</u>
 ##### Step 1 : In `Command Prompt` start Notepad.
 > Type ``` Notepad ``` in CMD, and Press `Enter`.
-<img src="./Cmd_Not1.png" width="500px"></img>
+> > <img src="./Cmd_Not1.png" width="500px"></img>
 ##### Step 2 : Go to file and Click on `Open`.
 ##### Step 3 : Change File Type to `All Files`.
 <img src="./Note1.png" width="500px"></img>
