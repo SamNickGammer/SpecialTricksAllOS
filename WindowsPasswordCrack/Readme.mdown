@@ -6,7 +6,7 @@
 > <b>Step 1: </b> Click the **Power Button** icon in Lower Right Corner.
 > <b>Step 2: </b>Hold down ``Shift `` and click **Restart**.
 ##### Step 2:  Click ``Troubleshoot`` on the screen which appears.
->![enter image description here](https://cdn.mos.cms.futurecdn.net/2CWhaUvcVUWd3hMKZ7LhgL.png =500x)
+<img src="./ts_screen1.png" width="500px">
 ##### Step 3:  Click  ``Advance Option``.
 >![enter image description here](https://cdn.mos.cms.futurecdn.net/vFzmLGPdnVdwuJskLioouR.png =500x)
 ##### Step 4: Click on ``Command Prompt``.
