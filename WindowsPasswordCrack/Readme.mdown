@@ -10,7 +10,7 @@
 ##### Step 3:  Click  ``Advance Option``.
 > <img src="./ts_screen2.png" width="500px"></img>
 ##### Step 4: Click on ``Command Prompt``.
-<img src="./ts_screen3.png" width="500px"></img>
+> <img src="./ts_screen3.png" width="500px"></img>
 ##### You are Good to Go with Cracking Password
 #### <u> Using Flash Boot Drive / Recovery Drive...</u>
 ##### Step 1: ``Restart `` your System. 
@@ -39,7 +39,7 @@ INTEL|||F10
 
 ##### Step 3: Choose the ``Boot Drive / Recovery Drive`` From the options. 
 ##### Step 4: Let the windows be Loaded until first screen will open.
-<img src="./foramte_c1.png" width="500px"></img>
+> <img src="./foramte_c1.png" width="500px"></img>
 ##### Step 5: Open ``Command Prompt``.
 > Press `Shift + F10` Button. 
 > CMD Will Start here. 
