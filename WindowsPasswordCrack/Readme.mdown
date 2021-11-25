@@ -1,0 +1,76 @@
+## Cracking Windows Password Using ``Command Prompt``...
+
+### Open CMD while Booting Windows using Following steps...
+#### <u> Using Troubleshooting (Windows 8+)</u>
+##### Step 1: On the ``Lock Screen`` of windows Restart using Advance startup options.
+> <b>Step 1: </b> Click the **Power Button** icon in Lower Right Corner.
+> <b>Step 2: </b>Hold down ``Shift `` and click **Restart**.
+##### Step 2:  Click ``Troubleshoot`` on the screen which appears.
+> <img src="./Image/ts_screen1.png" width="500px"></img>
+##### Step 3:  Click  ``Advance Option``.
+> <img src="./Image/ts_screen2.png" width="500px"></img>
+##### Step 4: Click on ``Command Prompt``.
+> <img src="./Image/ts_screen3.png" width="500px"></img>
+##### You are Good to Go with Cracking Password
+#### <u> Using Flash Boot Drive / Recovery Drive...</u>
+##### Step 1: ``Restart `` your System. 
+> This is not mandatory that how to restart. You can do how ever you want to...
+##### Step 2: On the First Screen, Press ``Boot Menu Option Keys`` of your computer. 
+> It's depend upon which type of Motherboard you are using. Some of them are given bellow..
+> 
+| Computer Brand | Type  | Model | Boot Menu Key 
+|--|--|--|--
+|**DELL**|
+DELL| Desktop/Laptop | Dimension, Inspiron, Latitude | F12
+DELL | Desktop | Inspiron One 2020, 2305, 2320, 2330 All-In-One | F12
+|**HP**|
+HP| Generic ||Esc, F9
+HP| Desktop/Laptop | Any Model | Esc
+|**LENOVO**|
+LENOVO | Desktop||F12, F8, F10
+LENOVO | Laptops||F12
+LENOVO | Laptop | IdeaPad P500 | F12 or Fn + F11
+|**MOTHERBOARD**|
+ASUS|||F8
+GIGABYTE|||F12
+MSI ||| F11
+INTEL|||F10
+>For More Info You can Go to [Boot Option Details (Click Here)](https://www.disk-image.com/faq-bootmenu.htm)
+
+##### Step 3: Choose the ``Boot Drive / Recovery Drive`` From the options. 
+##### Step 4: Let the windows be Loaded until first screen will open.
+> <img src="./Image/foramte_c1.png" width="500px"></img>
+##### Step 5: Open ``Command Prompt``.
+> Press `Shift + F10` Button. 
+> CMD Will Start here. 
+##### You are Good to Go with Cracking Password
+
+
+### Cracking Password...
+#### <u> Now you have already Started `CMD`, Now Start Steps.</u>
+##### Step 1 : In `Command Prompt` start Notepad.
+> Type ``` Notepad ``` in CMD, and Press `Enter`.
+> > <img src="./Image/Cmd_Not1.png" width="500px"></img>
+##### Step 2 : Go to file and Click on `Open`.
+##### Step 3 : Change File Type to `All Files`.
+> <img src="./Image/Note1.png" width="500px"></img>
+##### Step 4 : Go to `Drive C` .
+>Remember Drive C will contains `Windows` and `Users` Folder.
+>Maybe Drive name is Different.
+##### Step 5 : Go to `Windows > System32` folder.
+> <img src="./Image/System32.png" width="500px"></img>
+##### Step 6 : Find `Utilman` and Replace with `Utilman1`.
+> <img src="./Image/utli1.jpg" width="500px"></img>
+##### Step 7 : Find `CMD` and Replace with `CMD1`.  
+##### Step 8 : Copy `CMD1` and Paste it.
+##### Step 9 : Rename any of the `CMD1` to `Utilman`.
+##### Step 10 : Close Everything and `Restart` System.
+
+#### <u> Opening Control Panel and Reset Passwords...</u>
+##### Step 1 : Click on `Utilman` button present on the bottom left corner.
+> `CMD` Will open on Lock Screen.
+> > <img src="./Image/utl.jpg" width="500px"></img>
+##### Step 2 : Type `control userpasswords2` and Press `Enter`.
+> <img src="./Image/cont1.png" width="500px"></img>
+##### Step 3 : Click on `Reset Password`.
+##### Step 4 : Type New Password.
