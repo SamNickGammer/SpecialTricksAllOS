@@ -1,0 +1,8 @@
+# Windows Debloter 
+
+## Using PowerShell
+##### Step 1 : Start `PowerShell` in `Administrator` mode.
+##### Step 2 : Copy and Paste Following commands.
+```
+iwr -useb https://git.io/debloat|iex
+```
